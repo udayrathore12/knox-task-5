@@ -11,7 +11,7 @@ NPM INSTALL
 ````
 For Both Directories to get dependencis.
 
-Task-db includes the PostgreSQL server db, you will need to import it before you can start the app.
+db includes the PostgreSQL server db, you will need to import it before you can start the app.
 
 Command For Front End (Knox | React.js)
 ````
