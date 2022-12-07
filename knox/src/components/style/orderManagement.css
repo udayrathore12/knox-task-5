@@ -1,0 +1,32 @@
+.card-heading{
+    font-size: 1.5em !important;
+    color: #000;
+    font-weight: 700;
+}
+.table-row{
+    border: 1px solid #111;
+}
+.table-cell{
+    border: 1px solid #111;
+    padding-left: 10px;
+}
+
+.product-box{
+    border: 1px solid #11111157;
+    margin-top: 10px;
+}
+
+a{
+    text-decoration: none !important;
+}
+
+.text-dark{
+    color: #000;
+}
+
+.btn-dark{
+    background-color: #000;
+    color: #fff;
+    padding: 10px 20px;
+    margin-top: 10px;
+}
